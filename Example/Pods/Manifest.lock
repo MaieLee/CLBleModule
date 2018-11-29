@@ -1,0 +1,16 @@
+PODS:
+  - CLBleModule (0.1.0)
+
+DEPENDENCIES:
+  - CLBleModule (from `../`)
+
+EXTERNAL SOURCES:
+  CLBleModule:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CLBleModule: 88404c65b83d481c1a40487a72601f78f7a87903
+
+PODFILE CHECKSUM: c9cb77fa43a866235e65b0f3f6f3c515b485c89f
+
+COCOAPODS: 1.5.3

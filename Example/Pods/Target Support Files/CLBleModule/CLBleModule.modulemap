@@ -1,0 +1,6 @@
+framework module CLBleModule {
+  umbrella header "CLBleModule-umbrella.h"
+
+  export *
+  module * { export * }
+}
