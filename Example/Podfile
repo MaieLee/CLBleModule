@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CLBleModule_Example' do
+  pod 'CLBleModule', :path => '../'
+
+  target 'CLBleModule_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
